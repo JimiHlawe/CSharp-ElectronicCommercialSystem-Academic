@@ -1,0 +1,98 @@
+C:\Users\adisr\Desktop\FinalProject_Part1\FinalProject\FinalProject\bin\Debug\FinalProject.exe.config
+C:\Users\adisr\Desktop\FinalProject_Part1\FinalProject\FinalProject\bin\Debug\FinalProject.exe
+C:\Users\adisr\Desktop\FinalProject_Part1\FinalProject\FinalProject\bin\Debug\FinalProject.pdb
+C:\Users\adisr\Desktop\FinalProject_Part1\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.AssemblyReference.cache
+C:\Users\adisr\Desktop\FinalProject_Part1\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\adisr\Desktop\FinalProject_Part1\FinalProject\FinalProject\obj\Debug\FinalProject.exe
+C:\Users\adisr\Desktop\FinalProject_Part1\FinalProject\FinalProject\obj\Debug\FinalProject.pdb
+C:\Users\jimi\Desktop\FinalProject02_06\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.AssemblyReference.cache
+C:\Users\jimi\Desktop\FinalProject02_06\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\jimi\Desktop\FinalProject02_06\FinalProject\FinalProject\obj\Debug\FinalProject.exe
+C:\Users\jimi\Desktop\FinalProject02_06\FinalProject\FinalProject\obj\Debug\FinalProject.pdb
+C:\Users\jimi\Desktop\FinalProject02_06\FinalProject\FinalProject\bin\Debug\FinalProject.exe.config
+C:\Users\jimi\Desktop\FinalProject02_06\FinalProject\FinalProject\bin\Debug\FinalProject.exe
+C:\Users\jimi\Desktop\FinalProject02_06\FinalProject\FinalProject\bin\Debug\FinalProject.pdb
+C:\Users\jimi\Desktop\FinalProject02_06\FinalProject4.6\FinalProject\bin\Debug\FinalProject.exe.config
+C:\Users\jimi\Desktop\FinalProject02_06\FinalProject4.6\FinalProject\bin\Debug\FinalProject.exe
+C:\Users\jimi\Desktop\FinalProject02_06\FinalProject4.6\FinalProject\bin\Debug\FinalProject.pdb
+C:\Users\jimi\Desktop\FinalProject02_06\FinalProject4.6\FinalProject\obj\Debug\FinalProject.csproj.AssemblyReference.cache
+C:\Users\jimi\Desktop\FinalProject02_06\FinalProject4.6\FinalProject\obj\Debug\FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\jimi\Desktop\FinalProject02_06\FinalProject4.6\FinalProject\obj\Debug\FinalProject.exe
+C:\Users\jimi\Desktop\FinalProject02_06\FinalProject4.6\FinalProject\obj\Debug\FinalProject.pdb
+C:\Users\adisr\Desktop\פרויקט C#\FinalProject 23.6\FinalProject4.6\FinalProject\bin\Debug\FinalProject.exe.config
+C:\Users\adisr\Desktop\פרויקט C#\FinalProject 23.6\FinalProject4.6\FinalProject\bin\Debug\FinalProject.exe
+C:\Users\adisr\Desktop\פרויקט C#\FinalProject 23.6\FinalProject4.6\FinalProject\bin\Debug\FinalProject.pdb
+C:\Users\adisr\Desktop\פרויקט C#\FinalProject 23.6\FinalProject4.6\FinalProject\obj\Debug\FinalProject.csproj.AssemblyReference.cache
+C:\Users\adisr\Desktop\פרויקט C#\FinalProject 23.6\FinalProject4.6\FinalProject\obj\Debug\FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\adisr\Desktop\פרויקט C#\FinalProject 23.6\FinalProject4.6\FinalProject\obj\Debug\FinalProject.exe
+C:\Users\adisr\Desktop\פרויקט C#\FinalProject 23.6\FinalProject4.6\FinalProject\obj\Debug\FinalProject.pdb
+C:\Users\jimi\Desktop\FinalProject23_06_24\FinalProject4.6\FinalProject\bin\Debug\FinalProject.exe.config
+C:\Users\jimi\Desktop\FinalProject23_06_24\FinalProject4.6\FinalProject\bin\Debug\FinalProject.exe
+C:\Users\jimi\Desktop\FinalProject23_06_24\FinalProject4.6\FinalProject\bin\Debug\FinalProject.pdb
+C:\Users\jimi\Desktop\FinalProject23_06_24\FinalProject4.6\FinalProject\obj\Debug\FinalProject.csproj.AssemblyReference.cache
+C:\Users\jimi\Desktop\FinalProject23_06_24\FinalProject4.6\FinalProject\obj\Debug\FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\jimi\Desktop\FinalProject23_06_24\FinalProject4.6\FinalProject\obj\Debug\FinalProject.exe
+C:\Users\jimi\Desktop\FinalProject23_06_24\FinalProject4.6\FinalProject\obj\Debug\FinalProject.pdb
+C:\Users\adisr\Desktop\פרויקט C#\FinalProject סופי\FinalProject4.6\FinalProject\bin\Debug\FinalProject.exe.config
+C:\Users\adisr\Desktop\פרויקט C#\FinalProject סופי\FinalProject4.6\FinalProject\bin\Debug\FinalProject.exe
+C:\Users\adisr\Desktop\פרויקט C#\FinalProject סופי\FinalProject4.6\FinalProject\bin\Debug\FinalProject.pdb
+C:\Users\adisr\Desktop\פרויקט C#\FinalProject סופי\FinalProject4.6\FinalProject\obj\Debug\FinalProject.csproj.AssemblyReference.cache
+C:\Users\adisr\Desktop\פרויקט C#\FinalProject סופי\FinalProject4.6\FinalProject\obj\Debug\FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\adisr\Desktop\פרויקט C#\FinalProject סופי\FinalProject4.6\FinalProject\obj\Debug\FinalProject.exe
+C:\Users\adisr\Desktop\פרויקט C#\FinalProject סופי\FinalProject4.6\FinalProject\obj\Debug\FinalProject.pdb
+C:\Users\jimi\Desktop\FinalProject סופי (2)\FinalProject æàöë\FinalProject4.6\FinalProject\bin\Debug\FinalProject.exe.config
+C:\Users\jimi\Desktop\FinalProject סופי (2)\FinalProject æàöë\FinalProject4.6\FinalProject\bin\Debug\FinalProject.exe
+C:\Users\jimi\Desktop\FinalProject סופי (2)\FinalProject æàöë\FinalProject4.6\FinalProject\bin\Debug\FinalProject.pdb
+C:\Users\jimi\Desktop\FinalProject סופי (2)\FinalProject æàöë\FinalProject4.6\FinalProject\obj\Debug\FinalProject.csproj.AssemblyReference.cache
+C:\Users\jimi\Desktop\FinalProject סופי (2)\FinalProject æàöë\FinalProject4.6\FinalProject\obj\Debug\FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\jimi\Desktop\FinalProject סופי (2)\FinalProject æàöë\FinalProject4.6\FinalProject\obj\Debug\FinalProject.exe
+C:\Users\jimi\Desktop\FinalProject סופי (2)\FinalProject æàöë\FinalProject4.6\FinalProject\obj\Debug\FinalProject.pdb
+C:\Users\jimi\Desktop\FinalProject4.6\FinalProject\obj\Debug\FinalProject.csproj.AssemblyReference.cache
+C:\Users\jimi\Desktop\FinalProject4.6\FinalProject\obj\Debug\FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\jimi\Desktop\FinalProject4.6\FinalProject\obj\Debug\FinalProject.exe
+C:\Users\jimi\Desktop\FinalProject4.6\FinalProject\obj\Debug\FinalProject.pdb
+C:\Users\jimi\Desktop\FinalProject4.6\FinalProject\bin\Debug\FinalProject.exe.config
+C:\Users\jimi\Desktop\FinalProject4.6\FinalProject\bin\Debug\FinalProject.exe
+C:\Users\jimi\Desktop\FinalProject4.6\FinalProject\bin\Debug\FinalProject.pdb
+C:\Users\adisr\Desktop\פרויקט C#\FinalProject29.6\FinalProject4.6\FinalProject\bin\Debug\FinalProject.exe.config
+C:\Users\adisr\Desktop\פרויקט C#\FinalProject29.6\FinalProject4.6\FinalProject\bin\Debug\FinalProject.exe
+C:\Users\adisr\Desktop\פרויקט C#\FinalProject29.6\FinalProject4.6\FinalProject\bin\Debug\FinalProject.pdb
+C:\Users\adisr\Desktop\פרויקט C#\FinalProject29.6\FinalProject4.6\FinalProject\obj\Debug\FinalProject.csproj.AssemblyReference.cache
+C:\Users\adisr\Desktop\פרויקט C#\FinalProject29.6\FinalProject4.6\FinalProject\obj\Debug\FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\adisr\Desktop\פרויקט C#\FinalProject29.6\FinalProject4.6\FinalProject\obj\Debug\FinalProject.exe
+C:\Users\adisr\Desktop\פרויקט C#\FinalProject29.6\FinalProject4.6\FinalProject\obj\Debug\FinalProject.pdb
+C:\Users\jimi\Desktop\FinalProject29.6 (3)\FinalProject29.6\FinalProject4.6\FinalProject\bin\Debug\FinalProject.exe.config
+C:\Users\jimi\Desktop\FinalProject29.6 (3)\FinalProject29.6\FinalProject4.6\FinalProject\bin\Debug\FinalProject.exe
+C:\Users\jimi\Desktop\FinalProject29.6 (3)\FinalProject29.6\FinalProject4.6\FinalProject\bin\Debug\FinalProject.pdb
+C:\Users\jimi\Desktop\FinalProject29.6 (3)\FinalProject29.6\FinalProject4.6\FinalProject\obj\Debug\FinalProject.csproj.AssemblyReference.cache
+C:\Users\jimi\Desktop\FinalProject29.6 (3)\FinalProject29.6\FinalProject4.6\FinalProject\obj\Debug\FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\jimi\Desktop\FinalProject29.6 (3)\FinalProject29.6\FinalProject4.6\FinalProject\obj\Debug\FinalProject.exe
+C:\Users\jimi\Desktop\FinalProject29.6 (3)\FinalProject29.6\FinalProject4.6\FinalProject\obj\Debug\FinalProject.pdb
+C:\Users\jimi\Desktop\FinalProject29.6 (3)\FinalProject29.6\FinalProject29.6\FinalProject\bin\Debug\FinalProject.exe.config
+C:\Users\jimi\Desktop\FinalProject29.6 (3)\FinalProject29.6\FinalProject29.6\FinalProject\bin\Debug\FinalProject.exe
+C:\Users\jimi\Desktop\FinalProject29.6 (3)\FinalProject29.6\FinalProject29.6\FinalProject\bin\Debug\FinalProject.pdb
+C:\Users\jimi\Desktop\FinalProject29.6 (3)\FinalProject29.6\FinalProject29.6\FinalProject\obj\Debug\FinalProject.csproj.AssemblyReference.cache
+C:\Users\jimi\Desktop\FinalProject29.6 (3)\FinalProject29.6\FinalProject29.6\FinalProject\obj\Debug\FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\jimi\Desktop\FinalProject29.6 (3)\FinalProject29.6\FinalProject29.6\FinalProject\obj\Debug\FinalProject.exe
+C:\Users\jimi\Desktop\FinalProject29.6 (3)\FinalProject29.6\FinalProject29.6\FinalProject\obj\Debug\FinalProject.pdb
+C:\Users\jimi\Desktop\FinalProject_4\FinalProject_4\FinalProject\obj\Debug\FinalProject.csproj.AssemblyReference.cache
+C:\Users\jimi\Desktop\FinalProject_4\FinalProject_4\FinalProject\obj\Debug\FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\jimi\Desktop\FinalProject_4\FinalProject_4\FinalProject\obj\Debug\FinalProject.exe
+C:\Users\jimi\Desktop\FinalProject_4\FinalProject_4\FinalProject\obj\Debug\FinalProject.pdb
+C:\Users\jimi\Desktop\FinalProject29.6 (3)\FinalProject_4\FinalProject_4\FinalProject\bin\Debug\FinalProject.exe.config
+C:\Users\jimi\Desktop\FinalProject29.6 (3)\FinalProject_4\FinalProject_4\FinalProject\bin\Debug\FinalProject.exe
+C:\Users\jimi\Desktop\FinalProject29.6 (3)\FinalProject_4\FinalProject_4\FinalProject\bin\Debug\FinalProject.pdb
+C:\Users\jimi\Desktop\FinalProject29.6 (3)\FinalProject_4\FinalProject_4\FinalProject\obj\Debug\FinalProject.csproj.AssemblyReference.cache
+C:\Users\jimi\Desktop\FinalProject29.6 (3)\FinalProject_4\FinalProject_4\FinalProject\obj\Debug\FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\jimi\Desktop\FinalProject29.6 (3)\FinalProject_4\FinalProject_4\FinalProject\obj\Debug\FinalProject.exe
+C:\Users\jimi\Desktop\FinalProject29.6 (3)\FinalProject_4\FinalProject_4\FinalProject\obj\Debug\FinalProject.pdb
+C:\Users\jimi\Desktop\FinalProject29.6 (3)\FinalProject_4\FinalProject_4_\FinalProject_4\FinalProject\bin\Debug\FinalProject.exe.config
+C:\Users\jimi\Desktop\FinalProject29.6 (3)\FinalProject_4\FinalProject_4_\FinalProject_4\FinalProject\bin\Debug\FinalProject.exe
+C:\Users\jimi\Desktop\FinalProject29.6 (3)\FinalProject_4\FinalProject_4_\FinalProject_4\FinalProject\bin\Debug\FinalProject.pdb
+C:\Users\jimi\Desktop\FinalProject29.6 (3)\FinalProject_4\FinalProject_4_\FinalProject_4\FinalProject\obj\Debug\FinalProject.csproj.AssemblyReference.cache
+C:\Users\jimi\Desktop\FinalProject29.6 (3)\FinalProject_4\FinalProject_4_\FinalProject_4\FinalProject\obj\Debug\FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\jimi\Desktop\FinalProject29.6 (3)\FinalProject_4\FinalProject_4_\FinalProject_4\FinalProject\obj\Debug\FinalProject.exe
+C:\Users\jimi\Desktop\FinalProject29.6 (3)\FinalProject_4\FinalProject_4_\FinalProject_4\FinalProject\obj\Debug\FinalProject.pdb
+C:\Users\jimi\Desktop\FinalProject_4\FinalProject_4\FinalProject\bin\Debug\FinalProject.exe.config
+C:\Users\jimi\Desktop\FinalProject_4\FinalProject_4\FinalProject\bin\Debug\FinalProject.exe
+C:\Users\jimi\Desktop\FinalProject_4\FinalProject_4\FinalProject\bin\Debug\FinalProject.pdb
