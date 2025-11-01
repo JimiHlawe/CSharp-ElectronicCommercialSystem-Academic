@@ -138,7 +138,8 @@ The system follows a layered architecture with clear separation of concerns:
 #### 8. **SystemManager**
 - Central management class for the entire system
 - Properties: SystemName, Buyers, Sellers
-- Uses List<T> collections for automatic capacity management
+- Custom capacity management with doubling strategy
+- Initial capacity: 2 users per type, doubles when full
 - Operator Overloading: `+` for adding buyers/sellers to the system
 - Key Methods:
   - User management (add, validate, find)
@@ -297,7 +298,7 @@ CSharp-ElectronicCommercialSystem-Academic/
 ├── Seller.cs                      # Seller implementation
 │
 ├── Product.cs                     # Product class
-├── SpecialPackagedProduct.cs     # Special packaging variant
+├── SpecialPackagedProduct .cs    # Special packaging variant
 │
 ├── Order.cs                       # Order management
 ├── Address.cs                     # Address entity
@@ -347,10 +348,10 @@ CSharp-ElectronicCommercialSystem-Academic/
    - Primary: Number of products (descending)
    - Secondary: Username (alphabetical)
 
-4. **User Collection Management**
-   - Uses List<T> for buyers and sellers
-   - Automatic capacity management
-   - Efficient memory handling
+4. **Dynamic Capacity Management**
+   - Initial capacity: 2 users of each type
+   - Doubles when capacity is reached
+   - Custom implementation with manual tracking
 
 ## 🎨 Design Patterns
 
