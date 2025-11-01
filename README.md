@@ -4,18 +4,18 @@ A comprehensive C# console-based e-commerce platform that simulates an online ma
 
 ## 📋 Table of Contents
 
-- [Overview](#overview)
-- [Features](#features)
-- [Architecture](#architecture)
-- [Class Structure](#class-structure)
-- [Installation](#installation)
-- [Usage](#usage)
-- [System Requirements](#system-requirements)
-- [Project Structure](#project-structure)
-- [Key Functionalities](#key-functionalities)
-- [Design Patterns](#design-patterns)
-- [Contributing](#contributing)
-- [Academic Project](#academic-project)
+- [Overview](#-overview)
+- [Features](#-features)
+- [Architecture](#-architecture)
+- [Class Structure](#-class-structure)
+- [Installation](#-installation)
+- [Usage](#-usage)
+- [System Requirements](#-system-requirements)
+- [Project Structure](#-project-structure)
+- [Key Functionalities](#-key-functionalities)
+- [Design Patterns](#-design-patterns)
+- [Contributing](#-contributing)
+- [Academic Project](#-academic-project)
 
 ## 🎯 Overview
 
@@ -89,10 +89,11 @@ The system follows a layered architecture with clear separation of concerns:
 
 ### Core Classes
 
-#### 1. **User** (Abstract Base Class)
+#### 1. **User** (Base Class)
 - Properties: UserID, UserName, Password, Address
 - Provides base functionality for both Buyers and Sellers
 - Implements validation for username and password
+- Can be inherited by specialized user types
 
 #### 2. **Buyer** (Inherits from User)
 - Implements: `ICloneable`
@@ -125,7 +126,7 @@ The system follows a layered architecture with clear separation of concerns:
 #### 6. **Order**
 - Implements: `ICloneable`
 - Properties: OrderID, BuyerDetails, Products
-- Auto-generated OrderID with timestamp format: `####\tdd/MM/yyyy,HH:mm`
+- Auto-generated OrderID with timestamp format: `#### [TAB] dd/MM/yyyy,HH:mm`
 - Maintains product list snapshot at time of order
 
 #### 7. **Address**
@@ -137,8 +138,8 @@ The system follows a layered architecture with clear separation of concerns:
 #### 8. **SystemManager**
 - Central management class for the entire system
 - Properties: SystemName, Buyers, Sellers
-- Dynamic capacity expansion for users
-- Operator Overloading: `+` for adding buyers/sellers
+- Uses List<T> collections for automatic capacity management
+- Operator Overloading: `+` for adding buyers/sellers to the system
 - Key Methods:
   - User management (add, validate, find)
   - Product management (add, search)
@@ -168,7 +169,7 @@ enum PackagingOptions { Regular, Special }
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/JimiHlawe/CSharp-ElectronicCommercialSystem-Academic.git
+   git clone <repository-url>
    cd CSharp-ElectronicCommercialSystem-Academic
    ```
 
@@ -346,10 +347,10 @@ CSharp-ElectronicCommercialSystem-Academic/
    - Primary: Number of products (descending)
    - Secondary: Username (alphabetical)
 
-4. **Dynamic Capacity**
-   - Initial capacity: 2 users of each type
-   - Doubles when capacity is reached
-   - Automatic memory management
+4. **User Collection Management**
+   - Uses List<T> for buyers and sellers
+   - Automatic capacity management
+   - Efficient memory handling
 
 ## 🎨 Design Patterns
 
