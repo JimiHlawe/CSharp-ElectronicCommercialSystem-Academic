@@ -14,7 +14,6 @@ A comprehensive C# console-based e-commerce platform that simulates an online ma
 - [Project Structure](#-project-structure)
 - [Key Functionalities](#-key-functionalities)
 - [Design Patterns](#-design-patterns)
-- [Contributing](#-contributing)
 - [Academic Project](#-academic-project)
 
 ## 🎯 Overview
@@ -399,25 +398,10 @@ This is an academic project designed to demonstrate:
 - Exception handling
 - Menu-driven console applications
 
-## 🤝 Contributing
-
-This is an academic project, but contributions for educational purposes are welcome:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
 ## 📝 License
 
 This is an academic project created for educational purposes.
 
-## 🙏 Acknowledgments
-
-- Created as part of a C# programming course
-- Demonstrates practical application of OOP concepts
-- Suitable for learning and educational reference
 
 ---
 
