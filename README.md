@@ -413,10 +413,6 @@ This is an academic project, but contributions for educational purposes are welc
 
 This is an academic project created for educational purposes.
 
-## 👨‍💻 Author
-
-JimiHlawe
-
 ## 🙏 Acknowledgments
 
 - Created as part of a C# programming course
